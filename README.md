@@ -1,5 +1,5 @@
 # Bank Loan Analysis & Risk Assessment Dashboard
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ## Project Overview
 An interactive Microsoft Excel dashboard created to analyze loan applications, approval rates, customer risk levels, and loan trends.
